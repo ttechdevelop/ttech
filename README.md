@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KostTech
+- 👋 Hi, I’m @ttech
 - 👀 I am interested in learning programming languages and right now I am learning Python
 - 🌱 I am currently studying at a technical university and am determined to become an IT specialist in the field of backend development
 - 💞️ I want to cooperate with worthy companies in order to grow together with my team
